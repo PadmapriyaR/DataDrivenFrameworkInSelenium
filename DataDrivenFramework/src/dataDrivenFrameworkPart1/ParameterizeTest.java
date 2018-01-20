@@ -25,6 +25,8 @@ public class ParameterizeTest {
 		//Read data from excel using the excel utility function
 		XlsReader reader = new XlsReader("D:\\Studies\\Selenium with Java1.0\\Hybrid Framework with POM\\DataDrivenFramework\\src\\com\\excel\\testdata\\HalfEBayTestData.xlsx");
 		int rowCount = reader.getRowCount("RegTestData");
+		
+		//Parameterization
 		for(int rowNum = 2; rowNum <= rowCount; rowNum++) {
 			String firstName = reader.getCellData("RegTestData", "Firstname", rowNum);
 			String lastName = reader.getCellData("RegTestData", "Lastname", rowNum);

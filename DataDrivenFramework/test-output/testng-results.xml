@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119873" started-at="2018-01-20T15:09:10Z" finished-at="2018-01-20T15:11:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119873" started-at="2018-01-20T15:09:10Z" finished-at="2018-01-20T15:11:10Z">
+      <class name="dataDrivenFrameworkPart1.DataProviderInDDFramework">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="setUp" is-config="true" duration-ms="39080" started-at="2018-01-20T20:54:16Z" finished-at="2018-01-20T20:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="register" duration-ms="14309" started-at="2018-01-20T20:54:55Z" data-provider="getData" finished-at="2018-01-20T20:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Padmapriya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[padmapriya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[padma@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="tearDown" is-config="true" duration-ms="1505" started-at="2018-01-20T20:55:09Z" finished-at="2018-01-20T20:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="setUp" is-config="true" duration-ms="11255" started-at="2018-01-20T20:55:11Z" finished-at="2018-01-20T20:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="register" duration-ms="6694" started-at="2018-01-20T20:55:22Z" data-provider="getData" finished-at="2018-01-20T20:55:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Somu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[padmapriya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[padma@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="tearDown" is-config="true" duration-ms="1443" started-at="2018-01-20T20:55:29Z" finished-at="2018-01-20T20:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="setUp" is-config="true" duration-ms="12450" started-at="2018-01-20T20:55:30Z" finished-at="2018-01-20T20:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="register" duration-ms="5900" started-at="2018-01-20T20:55:43Z" data-provider="getData" finished-at="2018-01-20T20:55:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[padmapriya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[padma@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="tearDown" is-config="true" duration-ms="1185" started-at="2018-01-20T20:55:49Z" finished-at="2018-01-20T20:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="setUp" is-config="true" duration-ms="13068" started-at="2018-01-20T20:55:50Z" finished-at="2018-01-20T20:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="register" duration-ms="5771" started-at="2018-01-20T20:56:03Z" data-provider="getData" finished-at="2018-01-20T20:56:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[padmapriya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[padma@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataDrivenFrameworkPart1.DataProviderInDDFramework@1ce4f0a]" name="tearDown" is-config="true" duration-ms="1350" started-at="2018-01-20T20:56:09Z" finished-at="2018-01-20T20:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dataDrivenFrameworkPart1.DataProviderInDDFramework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
